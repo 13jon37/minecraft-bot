@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const ping = require('minecraft-server-util');
-const token = 'NzUzMzY5MzEyMDA5NTE5MjI1.X1lL2A.kckVMSx8OLqdSTYKBeiY52UohFI';
+const token = '';
 const PREFIX = '!';
 bot.on('ready', () => {
     console.log('Bot online.');
